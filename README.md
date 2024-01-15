@@ -1,2 +1,2 @@
 # prime-deepss
-prime-deepss.github.io is about to change to cloudflare pages
+prime-deepss.github.io is migrated to primes.pages.dev
